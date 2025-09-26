@@ -117,4 +117,9 @@ There are two main command groups: **/blacklistcmd** (for managing blocked comma
 
 ✅ With these commands, you can secure your server against exploiters, force-op attempts, and malicious IPs.
 
+---
+
+Connect with me on Discord and create your request if you would like to have an English version.
+
+
 
