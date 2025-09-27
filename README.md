@@ -1,5 +1,8 @@
 # CoreGuardian – Protect Your Server with Confidence
 
+<img width="1024" height="1024" alt="core" src="https://github.com/user-attachments/assets/245ec0f9-1949-4b93-8359-72145dd54672" />
+
+
 **CoreGuardian** is a lightweight yet powerful plugin designed to help protect your Minecraft server from disruptive players and malicious attacks. While no plugin can guarantee 100% protection, CoreGuardian provides a strong first line of defense and useful tools to keep your community safe.
 
 I am Vietnamese, and I originally created this plugin for Vietnamese players. However, if you would like an English version, please don’t hesitate to send me a request, and I will work on updating the plugin.
@@ -120,6 +123,7 @@ There are two main command groups: **/blacklistcmd** (for managing blocked comma
 ---
 
 Connect with me on Discord and create your request if you would like to have an English version.
+
 
 
 
